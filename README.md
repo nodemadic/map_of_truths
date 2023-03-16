@@ -1,7 +1,19 @@
-A few of the key concepts at the core of Web3 are transparency, immutability, and accountability. These concepts have great value beyond their emerging use found in transactions and decentralized applications.
+# My Belief Repository
+This repository aims to demonstrate the core concepts of Web3, such as transparency, immutability, and accountability, by showcasing the evolution of my beliefs about various topics over time.
 
-This repository is intended to show the logic that builds up my beliefs about everything. It is to be added to and edited, but the old beliefs will still be able to be seen in their original commits.
+## Overview
+This repository serves as a living document that records my beliefs on various subjects. As my understanding grows and evolves, I will update the contents accordingly. The commit history will maintain a record of previous beliefs, ensuring transparency and immutability.
 
-Any belief written in the contents of this repo that you believe to be wrong can be challenged. Any statement made that you find to be a contradiction of a higher layer’s statement can and should be argued with. This can be done by forking and making a pull request or by sending a message via twitter or email. I will strive to transparently argue or approve the edits as they are received.
+## Challenging Beliefs
+I welcome challenges to any belief or statement found in this repository. If you find a contradiction or wish to argue a point, feel free to engage in a discussion. You can do this by:
 
-GitHub is a tool that works well for storing these thoughts, but it cannot provide an easily understandable visual to reference. My intention is to make a tool to provide a better interface of viewing this tree of beliefs and allowing easier interaction from others.
+- Forking the repository and submitting a pull request
+- Sending me a message via Twitter or email
+- I commit to addressing these challenges and updating the repository as needed, maintaining transparency in the process.
+
+## Improving Accessibility
+While GitHub provides a platform to store and manage these thoughts, it lacks an intuitive visual interface for easy reference and interaction. As a future goal, I plan to develop a tool to improve the user experience, allowing for seamless navigation and interaction with the belief tree.
+
+By creating this tool, I hope to encourage more people to engage with the content, contribute to discussions, and challenge existing beliefs, fostering a collaborative environment for growth and learning.
+
+Stay tuned for updates on the development of this interactive tool.
